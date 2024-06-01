@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Wazed Ullah</h1>
-<h3 align="center">Junior Web MERN Stack Web Developer</h3>
+<h3 align="center">Junior MERN Stack Web Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://wb-portfolio.vercel.app/](https://wb-portfolio.vercel.app/)
 
@@ -14,17 +14,12 @@ I've completed a course on Web Design and Development Learning Basic Web Design 
 
 I've learnt MERN-based front-end technologies like JS, JSX, React V18, React-Redux, Next js, Express and MongoDB.
 
-I can build websites with any CSS Frameworks like Bootstrap V5 or Tailwind CSS. I use React V18 as a JS UI Library. For Server-side I use Express and For Database I use MongoDB.
+I can build websites with any CSS Framework like Bootstrap V5 or Tailwind CSS. I use React V18 as a JS UI Library. For Server-side I use Express and For Database I use MongoDB.
 
 | ![Wazed Biplob GitHub Stats](https://github-readme-stats.vercel.app/api?username=wazed-biplob&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazed-biplob&layout=donut-vertical)](https://github.com/wazed-biplob/wazed-biplob) |
 | :--------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wazed-biplob&theme=react)](https://github.com/wazed-biplob/wazed-biplob)
-
-
-
-
-
 
 
 <h3 align="left">Connect with me:</h3>
