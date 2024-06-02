@@ -1,3 +1,5 @@
+![Banner Image](https://i.ibb.co/C2MPdfs/Wazed-Biplob.png)
+
 <h1 align="center">Hi 👋, I'm Md. Wazed Ullah</h1>
 <h3 align="center">Junior MERN Stack Web Developer</h3>
 
