@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md. Wazed Ullah</h1>
 <h3 align="center">Junior MERN Stack Web Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://wb-portfolio.vercel.app/](https://wb-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://wb-codebase.vercel.app/](https://wb-codebase.vercel.app/)
 
 - 💬 Ask me about **React V18**
 
