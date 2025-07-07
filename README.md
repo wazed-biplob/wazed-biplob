@@ -11,7 +11,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1n2i5P4P32W89YlbXQjjkBCzBL3AEGlaQ/view?usp=sharing](https://drive.google.com/file/d/1n2i5P4P32W89YlbXQjjkBCzBL3AEGlaQ/view?usp=sharing)
 ## Glance
 
-I've completed a course on Web Design and Development Learning Basic Web Design with CSS Frameworks like Bootstrap and then Develop full-fledged websites with WordPress and Page Builders like Elementor Pro and Divi.
+I've completed a course on Web Design and Development Learning Basic Web Design with CSS Frameworks like Bootstrap and then Develop full-fledged websites using Javascript.
 
 I've learnt MERN-based front-end technologies like JS, JSX, React V18, React-Redux, Next js, Express and MongoDB.
 
